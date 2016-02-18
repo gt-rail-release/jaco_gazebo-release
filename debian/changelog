@@ -1,0 +1,18 @@
+ros-indigo-jaco-gazebo (0.0.2-0saucy) saucy; urgency=high
+
+  * Update README.md
+  * Update package.xml
+  * travis fix
+  * Contributors: David Kent, Russell Toris
+
+ -- Alex Henning <alex@thoriumrobotics.com>  Thu, 18 Feb 2016 05:00:00 -0000
+
+ros-indigo-jaco-gazebo (0.0.1-0saucy) saucy; urgency=high
+
+  * release cleanup
+  * initial commit
+  * Contributors: David Kent, Russell Toris
+
+ -- Alex Henning <alex@thoriumrobotics.com>  Tue, 24 Mar 2015 04:00:00 -0000
+
+
