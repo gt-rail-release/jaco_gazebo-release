@@ -1,9 +1,0 @@
-ros-indigo-jaco-gazebo (0.0.1-0saucy) saucy; urgency=high
-
-  * release cleanup
-  * initial commit
-  * Contributors: David Kent, Russell Toris
-
- -- Alex Henning <alex@thoriumrobotics.com>  Tue, 24 Mar 2015 04:00:00 -0000
-
-
